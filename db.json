@@ -1,7 +1,7 @@
 {
   "doctype": 
   [
-    {"type":"DPI","locIsoCode":"GT","isDefault":true,"detail":"Documento Personal de Identidad","regex":"[A-Z]|[a-z]|[0-9]"},
-    {"type":"CUI","locIsoCode":"GT","isDefault":false,"detail":"Código Único de Identificación","regex":"[A-Z]|[a-z]|[0-9]"}
+    {"_id":"5f5ad43ecd7e8e4b1b530edf","type":"DPI","locIsoCode":"GT","isDefault":true,"detail":"Documento Personal de Identidad","regex":"[A-Z]|[a-z]|[0-9]"},
+    {"_id":"6f5ad43ecd7e8e4b1b530edf","type":"CUI","locIsoCode":"GT","isDefault":false,"detail":"Código Único de Identificación","regex":"[A-Z]|[a-z]|[0-9]"}
   ]
 }
