@@ -1,6 +1,6 @@
 {
   "doctype": 
   [
-    {"id":"5f6e8dd06d95f5a0195f7fc2","type":"DNI","locIsoCode":"AR","default":false,"detail":"Documento Nacional de Identidad","fullNumeric":true,"regex":"\\d{2}\\.{1}\\d{3}\\.\\d{3}","maskPattern":"##.###.###"}
+    {"id":"5f6e8dd06d95f5a0195f7fc2","type":"DNI","locIsoCode":"AR","isDefault":false,"detail":"Documento Nacional de Identidad","fullNumeric":true,"regex":"\\d{2}\\.{1}\\d{3}\\.\\d{3}","maskPattern":"##.###.###"}
   ]
 }
